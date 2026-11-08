@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/discourse-operator/commit/d351212f17645e74658aac28ab40a18bf7050c75",
       "git:hexsha": "d351212f17645e74658aac28ab40a18bf7050c75",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "publish-40574431454"
     },
     {
