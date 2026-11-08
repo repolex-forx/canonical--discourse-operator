@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/canonical/discourse-operator/commit/d351212f17645e74658aac28ab40a18bf7050c75",
       "git:hexsha": "d351212f17645e74658aac28ab40a18bf7050c75",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "publish-40574431454"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "publish-40574431454",
+      "repolex:parsedAt": "2026-11-08T19:04:22.150040+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/discourse-operator/commit/9d2b0c471a3491054eff6fb4e54d7e564687ec55",
